@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pranavg15
+- 👋 Hi, I’m @Pranav
 - 👀 I’m interested in Analytics
 - 🌱 I’m currently learning Data science and Machine learning 
 - 💞️ I’m looking to collaborate on Data Analytics
